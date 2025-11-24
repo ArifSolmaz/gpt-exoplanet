@@ -1,0 +1,4 @@
+cd /Users/arifsolmaz/Downloads/gpt-exoplanet
+python -m streamlit run streamlit_app.py
+
+

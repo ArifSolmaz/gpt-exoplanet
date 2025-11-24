@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+.env/
+env/
+
+# macOS cruft
+.DS_Store
+
+# Streamlit
+.streamlit/
