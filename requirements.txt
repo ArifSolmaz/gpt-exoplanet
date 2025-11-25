@@ -4,3 +4,4 @@ pandas
 matplotlib
 scipy
 batman-package
+standard-distutils
