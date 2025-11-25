@@ -4,4 +4,3 @@ pandas
 matplotlib
 scipy
 batman-package
-EOF
