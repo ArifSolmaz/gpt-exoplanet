@@ -2,3 +2,22 @@ cd /Users/arifsolmaz/Downloads/gpt-exoplanet
 python -m streamlit run streamlit_app.py
 
 
+
+
+When you edit locally:
+cd /Users/arifsolmaz/Downloads/gpt-exoplanet
+
+# check what changed
+git status
+
+# add changed files
+git add streamlit_app.py hatp36_ttv_sim.py
+
+# optional if you changed requirements or howtorun.txt
+git add requirements.txt howtorun.txt
+
+# commit
+git commit -m "Update TTV simulator: geometric starspots + upload mode"
+
+# push
+git push
